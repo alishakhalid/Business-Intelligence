@@ -11,7 +11,8 @@ Follow these steps to run the notebook successfully:
 
 3. Open the notebook in Google Colab
    Go to: https://colab.google/
-   Upload the notebook file or open it directly from your Google Drive.
 
-4. Run the notebook
+4. Upload the notebook file or open it directly from your Google Drive.
+
+5. Run the notebook
    Execute the cells in order.
